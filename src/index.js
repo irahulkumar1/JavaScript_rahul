@@ -8,6 +8,7 @@ import lifeWeek from "./03lifeW";
 
 // checking lenght
 // length();
+//asdfjal
 
 // make first latter capitalize
 // capitalize();
